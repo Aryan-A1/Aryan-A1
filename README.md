@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan-A1
 - 👀 I’m interested in learning different programming languages and develop my problem solving skills
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate my baby skills with the best resources on the internet
+- 💞️ I’m looking to collaborate and become a opensource contributer
 - 📫 How to reach me aryankumarsingh9370@gmail.com
 - 😄 Pronouns: HE / HIM
 - ⚡ Fun fact: CAPTCHA stands for “Completely Automated Public Turing test to tell Computers and Humans Apart.” I AM A HUMAN :)
